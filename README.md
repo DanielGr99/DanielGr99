@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Grabovski
+- 👋 Hi, my name is Daniel Grabovski
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C++
   
